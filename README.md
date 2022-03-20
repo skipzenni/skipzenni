@@ -9,7 +9,7 @@
     <a href="https://linkedin.com/in/muhammad-romadhoni-150374231/">LinkedIn</a>
 </p>
 <p align="center">
-  <h4 align="center">Computer Engineer from Lahore, Pakistan</h4>
+  <h4 align="center">S1 informatics graduate program from Yogyakarta, Indonesia</h4>
 </p>
 
 <p align="center"> 
