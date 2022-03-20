@@ -17,7 +17,7 @@
 </p>
 
 
-- 🔭 I’m currently working on **[not Yet](https://www.lutios.com/)**.
+- 🔭 I’m currently looking for **[Job](https://www.lutios.com/)**.
 
 - 🌱 I’m currently learning **Back-end Web Developer**.
 
